@@ -1,0 +1,34 @@
+.icon__spread {
+    width: 100vw;
+    background-color: #EDF0F2;
+}
+
+.icon__spread__container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.icon__spread__container :nth-child(even) i{
+    color: #FAC565;
+}
+
+.icon__spread__container :nth-child(odd) i{
+    color: #FC7138;
+}
+
+.icon__spread__box {
+    width: 20%;
+    padding: 20px;
+    color: #2D3D56;
+    font-size: 13px;
+}
+
+.icon__spread__box i {
+    font-size: 26px;
+    padding-bottom: 5px;
+}

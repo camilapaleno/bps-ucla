@@ -1,0 +1,21 @@
+.animation__spread {
+    width: 100vw;
+    color: #;
+}
+
+.animation__spread__container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.introduction {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10% 0 20px 0;
+}
+
+.animation__spread__box{
+    padding: 20px;
+}

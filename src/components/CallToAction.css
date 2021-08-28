@@ -1,0 +1,13 @@
+.call__to__action {
+    width: 100vw;
+    background-color: #2D3D56;
+}
+
+.call__to__action__container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+    color: #FFF;
+}
+
